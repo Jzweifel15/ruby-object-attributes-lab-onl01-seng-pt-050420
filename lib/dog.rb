@@ -5,7 +5,7 @@ class Dog
   end
   
   def name
-    dog_name
+    @get_dog_name
   end
   
   
